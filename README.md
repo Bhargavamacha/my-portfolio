@@ -1,2 +1,2 @@
-# my-portfolio
-This is my professional portfolio
+# Bhargava Sai Macha's professional portfolio
+This is my professional portfolio. It uses AWS and ReactJs and is a serverless website.
