@@ -4,6 +4,8 @@ import ExampleWork from './example-work';
 const myWork = [
     {
         'title':"Work Example 1",
+        'href' : 'https://google.com',
+        'desc': 'sdcscd',
         'image':{
             'desc':'example screenshot of project',
             'src':'images/example1.png',
@@ -12,6 +14,8 @@ const myWork = [
     },
     {
         'title':"Work Example 2",
+        'href' : 'https://google.com',
+        'desc': 'sdcscd',
         'image':{
             'desc':'example screenshot of project',
             'src':'images/example2.png',
@@ -20,6 +24,8 @@ const myWork = [
     },
     {
         'title':"Work Example 3",
+        'href' : 'https://google.com',
+        'desc': 'sdcscd',
         'image':{
             'desc':'example screenshot of project',
             'src':'images/example3.png',
